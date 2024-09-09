@@ -1,0 +1,6 @@
+Hello! I have deployed a working version of the final application here:
+https://app.redrobot.dev/translator/
+
+It's a good idea to checkout the link so you see what you will be building. 
+Having an idea of the final goal will give you a good idea why we add the feature 
+we do here. 
